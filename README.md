@@ -1,4 +1,4 @@
-# Baldi's Basics Plus Music IT's BALDi TiME!
+# Baldi's Basics Plus IT's BALDi TiME!
 
 ## 📝 Functionality
 
